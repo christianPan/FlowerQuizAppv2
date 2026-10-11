@@ -1,3 +1,5 @@
+package io.github.ttnguyen2505.emptyactivity
+
 package com.example.flowerquiz // Replace with your actual package name
 
 import android.content.Context
